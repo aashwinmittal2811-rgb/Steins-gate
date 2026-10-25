@@ -81,7 +81,7 @@ This CSS is a laboratory smash together from multiple CSS src's, changed and edi
   --Storm-ab: 5px;   /* Avatar Border Thickness */
   --Storm-ar: 255px;  /* Avatar Border Radius */
   --Storm-at: all 0.3s ease-in-out; /* Avatar Hover Transition */
-  --Storm-av: url("PASTE-DIRECT-KURISU-OR-STEINS-GATE-AVATAR-IMAGE-URL-HERE"); /* Replace with a direct image URL */
+  --Storm-av: url("https://imgur.com/dB6tnJ6"); /* Replace with a direct image URL */
   --Storm-ah: 1.1; /* Avatar Hover Scale */
   
   /* Quick Maths - !DON'T TOUCH! */
@@ -140,7 +140,7 @@ Dark Theme
 /* Body */
 body {
     cursor: url(https://i.ibb.co/m0HsZ80/Cursor.png), auto;
-    background-image: linear-gradient(rgba(7, 14, 30, 0.40), rgba(12, 7, 28, 0.58)), url("PASTE-DIRECT-STEINS-GATE-WALLPAPER-URL-HERE"); /* Replace with a direct wallpaper image URL */
+    background-image: linear-gradient(rgba(7, 14, 30, 0.40), rgba(12, 7, 28, 0.58)), url("https://imgur.com/3uUL48v"); /* Replace with a direct wallpaper image URL */
 /*    
 https://i.ibb.co/7zvH2ZM/Background-NB-C-D.webp
 https://i.ibb.co/Q8nkDvy/Background-NB-C-D.png
